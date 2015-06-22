@@ -50,3 +50,15 @@ local.properties
 .buildpath
 
 *.DS_Store
+
+# Intellij project files
+*.iws
+*.iml
+*.eml
+*.ipr
+.*.sw?
+.idea
+.idea/workspace.xml
+.idea/tasks.xml
+out/
+atlassian-ide-plugin.xml
